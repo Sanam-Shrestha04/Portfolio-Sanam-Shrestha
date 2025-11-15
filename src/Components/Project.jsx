@@ -34,7 +34,7 @@ const projects = [
     description:
       "My personal portfolio website to showcase my projects, skills, and experience as a frontend developer.",
     image: "/projects/portfolio.png",
-    url: "https://react-js-nasa-app-c1jv.vercel.app/",
+    url: "https://portfolio-sanam-shrestha-s35m.vercel.app/",
     tags: ["Tailwind", "React.js"],
   },
   {
