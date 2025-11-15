@@ -6,15 +6,14 @@ export const MainSection = () => {
     >
         <div className="container max-w-4xl mx-auto text-center z-10">
             <div className="space-y-6">
-                <h1 className="tex-4xl md:text-6xl font-bold">
+                <h1 className="text-4xl md:text-6xl font-bold">
                     <span className="text-secondary opacity-0 animate-fade-in">Hi ,I'm </span>
-                    <span className="text-primary opacity-0 animate-fade-in-delay-1"> OLA</span>
-                    <span className="text-secondary opacity-0 animate-fade-in-delay-2"> Developer</span>
+                    <span className="text-primary opacity-0 animate-fade-in-delay-1"> Sanam Shrestha</span>
+                    <span className="text-secondary opacity-0 animate-fade-in-delay-2"></span>
                 </h1>
 
                 <p className="text-lg md:text-xl text-muted-foreground text-secondary max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                    I am Developer and I have experiences 4 years  I create website
-                    moderen I build interface that are both beautiful and functional .
+                    I'm a <strong className="text-primary">frontend-focused web developer</strong> with a solid foundation in React, Tailwind CSS, and modern UI design, I’ve built several frontend projects. I'm excited about turning ideas into real applications and always learning new technologies.
                 </p>
             </div>
             <div className="pt-4 opacity-0 animate-fade-in-delay-4">
